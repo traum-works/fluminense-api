@@ -1,0 +1,24 @@
+{
+  "name": "fluminense-api",
+  "version": "1.0.0",
+  "description": "Fluminense API  Team 2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/traum-works/fluminense-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/traum-works/fluminense-api/issues"
+  },
+  "homepage": "https://github.com/traum-works/fluminense-api#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
